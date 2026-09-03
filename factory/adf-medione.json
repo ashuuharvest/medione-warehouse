@@ -1,0 +1,15 @@
+{
+	"name": "adf-medione",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd40c012-b512-42c0-b4e3-cc0e2f45a813",
+		"tenantId": "9c3fd5e4-6993-4ee9-80cb-af45f517be37"
+	}
+}

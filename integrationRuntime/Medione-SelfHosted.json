@@ -1,0 +1,6 @@
+{
+	"name": "Medione-SelfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
